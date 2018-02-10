@@ -14,3 +14,12 @@ This src goes to index.html in order to have bootstrap style
 ```
 
 ### This is not indented yet and design not finish but works.
+
+
+### Things to do:
+#### Navbar fixed,
+#### Notification shows when input string > 60?,
+#### When hover remove button it will appear a notification,
+#### Navbar fixed,
+#### Integrate with firebase,
+#### Have pagerItem working,
