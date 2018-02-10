@@ -13,6 +13,10 @@ This src goes to index.html in order to have bootstrap style
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 ```
 
+
+![Alt text](https://thumb.gyazo.com/thumb/800_w/_4679db464ae12edaf51c98753f70841d-gif "Test")
+
+
 ### This is not indented yet and design not finish but works.
 
 
