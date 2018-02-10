@@ -23,3 +23,4 @@ This src goes to index.html in order to have bootstrap style
 #### Navbar fixed,
 #### Integrate with firebase,
 #### Have pagerItem working,
+#### style checkmark and get it working
