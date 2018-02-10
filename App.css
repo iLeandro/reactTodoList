@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.todo-wrapper {
+  margin: 20px auto 20px auto;
+  width: 650px;
+  min-height: 680px;
+  border: 15px solid rgba(0, 0, 0, 1.0);
+  border-radius: 12px;
+  padding: 0px;
+}
+
+
+.logoImage {
+  width: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pagerItem {
+  margin: auto;
+  width: 35%;
+  padding: 10px;
+}
+
+
+.navbarLeo {
+
+}
